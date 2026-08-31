@@ -190,5 +190,5 @@ roles, and the controller checks that list again on the server. New admins are
 created by an existing admin.
 
 ---
- "Copyright (c) [2026] [Wahidul Alam Riyad]. All rights reserved."
+ "Copyright (c) 2026 Wahidul Alam Riyad. All rights reserved."
 ---
