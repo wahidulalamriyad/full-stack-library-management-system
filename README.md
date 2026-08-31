@@ -190,14 +190,5 @@ roles, and the controller checks that list again on the server. New admins are
 created by an existing admin.
 
 ---
-
-## 9. Suggested classroom exercises
-
-1. Change `FINE_PER_DAY` to 10 and prove the librarian's return screen agrees.
-2. Turn JavaScript off in the browser, submit an empty form, and watch the PHP
-   validation catch it anyway.
-3. Add a `publisher` column to `books`: schema → model → controller → view, and
-   notice that each layer changes in exactly one place.
-4. Open a librarian dashboard while signed in as a student and explain the
-   redirect (`require_role`).
-5. Type `<b>hello</b>` as a book title and explain why it shows as text.
+ "Copyright (c) [2026] [Wahidul Alam Riyad]. All rights reserved."
+---
